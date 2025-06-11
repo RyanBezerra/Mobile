@@ -1,4 +1,4 @@
-# ainmeucuzinho
+# APP
 
 A new Flutter project.
 
